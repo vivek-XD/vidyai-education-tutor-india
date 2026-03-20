@@ -94,3 +94,9 @@ async def ask_question(req: QuestionRequest):
 @app.get("/sessions")
 def list_sessions():
     return {"sessions": list(sessions.keys())}
+
+import uvicorn
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
