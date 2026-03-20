@@ -226,7 +226,7 @@ This makes AI tutoring viable for students in rural India who need affordable, f
 
 **Vivek Chauhan**
 - GitHub: [@vivek-XD](https://github.com/vivek-XD)
-- Project: Intel Unnati GenAI 2025
+- Project: Intel Unnati GenAI 2026
 
 ---
 
